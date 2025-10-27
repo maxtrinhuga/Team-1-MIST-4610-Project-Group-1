@@ -26,14 +26,13 @@ The Artists entity represents performers and songwriters, while Label captures t
 
 Overall, the model provides a comprehensive structure to store and analyze user behavior, billing history, subscription patterns, and mustic metadata. It allows for meaningful insights into user activity (such as most played genres or playlists), financial performance through billing data, and artist collaboration networks within the music streaming world.
 
-<img width="1033" height="739" alt="RD" src="https://github.com/user-attachments/assets/0a9ac47e-b413-4782-8d16-294b5b153622" />
-
+<img width="769" height="662" alt="Screenshot 2025-10-26 at 11 29 36 PM" src="https://github.com/user-attachments/assets/e73c8fd6-1906-40c8-962e-e74c91058c38" />
 
 ## Data Dictionary:
 
 <img width="1628" height="1093" alt="album" src="https://github.com/user-attachments/assets/c71a8c28-47b5-4730-8697-f68587587db4" />
 
-<img width="1633" height="838" alt="artist has song" src="https://github.com/user-attachments/assets/09c0cef3-03a3-4677-bbe3-689e7a5a3c02" />
+<img width="1629" height="770" alt="artisthassong" src="https://github.com/user-attachments/assets/8edba8f7-6275-46fe-9a26-731e690cf94e" />
 
 <img width="1630" height="1198" alt="artists" src="https://github.com/user-attachments/assets/6bed1d19-ada5-4687-8f55-71e2485f8510" />
 
@@ -45,17 +44,20 @@ Overall, the model provides a comprehensive structure to store and analyze user 
 
 <img width="1628" height="905" alt="playlist" src="https://github.com/user-attachments/assets/e5bb77b1-86e4-4373-a6c6-bf874b66438e" />
 
-<img width="1634" height="556" alt="playlist has song" src="https://github.com/user-attachments/assets/066264ae-2cae-4e55-b28e-8766af4d9c14" />
+<img width="1625" height="531" alt="playlisthassong" src="https://github.com/user-attachments/assets/40e4f046-2092-4142-9bd9-863c49578a4f" />
 
 <img width="1469" height="1245" alt="songs" src="https://github.com/user-attachments/assets/cc4c686a-0695-41ab-ac79-389973754ce9" />
 
-<img width="1458" height="896" alt="subscription" src="https://github.com/user-attachments/assets/f7f2db8f-57b6-4903-8ec0-9822af277a8b" />
+<img width="1628" height="733" alt="subscription (2)" src="https://github.com/user-attachments/assets/a361a4f4-0082-469d-823e-10aaba4790f5" />
 
 <img width="1466" height="820" alt="users" src="https://github.com/user-attachments/assets/d8dc88aa-1f14-4ad3-af55-9615e4fbc2b8" />
 
 
 ## Queries:
 <img width="794" height="436" alt="Screenshot 2025-10-26 at 11 10 01 PM" src="https://github.com/user-attachments/assets/e93db1a5-86da-4db0-8ece-2144f0ee70df" />
+
+![queries](https://github.com/user-attachments/assets/b7826d30-c7c0-48a9-a67c-aa3d1f5a3940)
+
 
 1. This query retrieves each user's first and last name along with their associated subscription type.
 <img width="2243" height="1002" alt="image" src="https://github.com/user-attachments/assets/f04fe6d9-980c-4598-a813-6a769c32b3d1" />
