@@ -55,6 +55,7 @@ Overall, the model provides a comprehensive structure to store and analyze user 
 
 
 ## Queries:
+<img width="794" height="436" alt="Screenshot 2025-10-26 at 11 10 01 PM" src="https://github.com/user-attachments/assets/e93db1a5-86da-4db0-8ece-2144f0ee70df" />
 
 1. This query retrieves each user's first and last name along with their associated subscription type.
 <img width="2243" height="1002" alt="image" src="https://github.com/user-attachments/assets/f04fe6d9-980c-4598-a813-6a769c32b3d1" />
